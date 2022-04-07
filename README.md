@@ -6,15 +6,15 @@ from [how-can-you-combine-git-add-patch-p-mode-with-diffs-ignore-all-space](http
 
 ## usage
 ### create the gwap alias
-`$ . gwap.sh`
+`₿ . gwap.sh`
 
 ### verify the alias
 ```
-$ alias
+₿ alias
 …
 alias gwap='git diff -U0 -w --no-color | git apply --cached --ignore-whitespace --unidiff-zero && git checkout -- . && git reset'
 …
 ```
 
 ### executing
-`gwap db/schema`
+`₿ gwap db/schema`
