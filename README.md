@@ -18,4 +18,6 @@ alias gwap='git diff -U0 -w --no-color | git apply --cached --ignore-whitespace 
 ```
 
 ### executing
-`₿ gwap db/schema`
+```shell
+₿ gwap db/schema
+```
