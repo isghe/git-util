@@ -1,6 +1,6 @@
 # gwap
 
-from https://stackoverflow.com/questions/6571643/how-can-you-combine-git-add-patch-p-mode-with-diffs-ignore-all-space
+from [how-can-you-combine-git-add-patch-p-mode-with-diffs-ignore-all-space](https://stackoverflow.com/a/44785950)
 
 `gwap` is an alias; when invoked it normalizes white spaces in a direcotory. Usefull to ignore white spaces for example, exporting db/schema.
 
